@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://murry.dev/sitemap-index.xml
+Host: https://murry.dev
