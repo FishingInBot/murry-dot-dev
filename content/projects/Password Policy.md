@@ -2,7 +2,7 @@
 date: '2025-04-15'
 title: 'Password Policy Website'
 github: 'https://github.com/FishingInBot/Password-Policy-Website'
-external: ''
+external: 'https://github.com/FishingInBot/Password-Policy-Website'
 tech:
   - Python
   - Flask

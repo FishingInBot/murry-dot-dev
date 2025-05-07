@@ -2,7 +2,7 @@
 date: '2023-06-27'
 title: 'Autograder'
 github: 'https://github.com/FishingInBot/AutoGrade'
-external: ''
+external: 'https://github.com/FishingInBot/AutoGrade'
 tech:
   - Canvas APIs
   - Java

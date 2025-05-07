@@ -2,7 +2,7 @@
 date: '2023-04-25'
 title: 'AI Class Projects'
 github: 'https://github.com/FishingInBot/AI'
-external: ''
+external: 'https://github.com/FishingInBot/AI'
 tech:
   - Dijkstra's Algorithm
   - Knights Isolation
