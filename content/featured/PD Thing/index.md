@@ -3,7 +3,7 @@ date: '1'
 title: 'Prisoners Dilemma Tournament'
 cover: './PD.png'
 github: 'https://github.com/FishingInBot/Prisoners-Dilemma'
-external: ''
+external: 'https://github.com/FishingInBot/Prisoners-Dilemma'
 tech:
   - Python
   - Docker Deployment

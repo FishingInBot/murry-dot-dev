@@ -3,7 +3,7 @@ date: '3'
 title: 'Loop Hero Optimizer'
 cover: './LH.png'
 github: 'https://github.com/FishingInBot/Loop-Hero-Placement-Scripts'
-external: ''
+external: 'https://github.com/FishingInBot/Loop-Hero-Placement-Scripts'
 tech:
   - Python
   - P/NP
